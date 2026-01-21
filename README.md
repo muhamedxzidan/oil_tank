@@ -12,6 +12,16 @@ The application features a "Special Edition" premium UI, focusing on readability
 
 ---
 
+## 📸 Screenshots & Demo
+
+<p align="center">
+  <img src="assets/screenshots/pin_screen.png" width="30%" alt="PIN Screen" />
+  <img src="assets/screenshots/dashboard.png" width="30%" alt="Dashboard" />
+  <img src="assets/screenshots/gauge.png" width="30%" alt="Oil Gauge" />
+</p>
+
+---
+
 ## ✨ Features
 
 - **Multi-Barrel Management**: Track multiple oil containers simultaneously with custom names and usage types (e.g., Hydraulic Oil, Coolant).
